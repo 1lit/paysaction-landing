@@ -12,7 +12,7 @@
     }
 
     @include breakpoint-up(large) {
-        padding: 7.5rem 0;
+        padding: 7.5rem 0 3.75rem;
 
         h2 {
             font-size: var(--font-xlg);
